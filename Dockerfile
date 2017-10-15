@@ -9,3 +9,4 @@ RUN pip install -r requirements.txt
 
 COPY test.py /code/
 COPY date_calculation /code/date_calculation
+COPY lru_cache /code/lru_cache
